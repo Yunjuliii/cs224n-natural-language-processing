@@ -1,2 +1,2 @@
 # cs224n-natural-language-processing
-This is a record of learning the course cs224n for natural language processing. including the code for assignments.
+Here are my solutions for coding assignments of CS224N(Natural Language Processing) by Stanford 2021 winter. 
